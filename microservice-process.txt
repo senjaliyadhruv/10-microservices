@@ -47,8 +47,8 @@ Step 5: Create EKS Cluster
 
 Step 6: Install Jenkins on EC2 Instance
    1. Install Java:
-       sudo apt update
-      sudo apt install openjdk-17-jdk
+      sudo apt update
+      sudo apt install openjdk-17-jdk -y
 
 
    2. Install Jenkins:
