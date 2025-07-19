@@ -49,7 +49,7 @@ Step 6: Install Jenkins on EC2 Instance
    1. Install Java:
       sudo apt update
       sudo apt install openjdk-17-jdk -y
-      apt install java-17-amazon-corretto.x86_64
+      apt install java-17-amazon-corretto.x86_64 -y
 
 
    2. Install Jenkins:
